@@ -33,3 +33,22 @@ C:\Users\HP\Desktop\New folder\social-club\Registration\WindowsFormsApplication1
 C:\Users\HP\Desktop\New folder\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\HP\Desktop\New folder\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\HP\Desktop\New folder\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin_forgetpassword.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin_login.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.forgetpassword.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\social-club\Registration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -26,17 +26,22 @@ namespace WindowsFormsApplication1
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form5 p = new Form5();
+            Form8 p = new Form8();
             this.Hide();
             p.Show();
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
-            Form6 s = new Form6();
-            this.Hide();
-            s.Show();
+           
 
+        }
+
+        private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form6 f = new Form6();
+            f.Show();
+            this.Hide();
         }
     }
 }

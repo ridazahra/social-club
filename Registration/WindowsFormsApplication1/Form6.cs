@@ -21,8 +21,15 @@ namespace WindowsFormsApplication1
         {
             localhost.Service1 s = new localhost.Service1();
            BindingSource bs = new BindingSource();
-           bs.DataSource = s.search_servant("tutuor");
+           bs.DataSource = s.search_servant("servant");
             dataGridView1.DataSource = bs;
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 z = new Form3();
+            this.Hide();
+            z.Show();
         }
     }
 }

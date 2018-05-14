@@ -29,5 +29,12 @@ namespace WindowsFormsApplication1
             bs.DataSource =s.search_servant("tutor") ;
             dataGridView1.DataSource = bs;
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form3 c = new Form3();
+            this.Hide();
+            c.Show();
+        }
     }
 }

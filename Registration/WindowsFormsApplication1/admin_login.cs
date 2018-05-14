@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form2 f = new Form2();
+            Form7 f = new Form7();
             f.Show();
             this.Hide();
         }
