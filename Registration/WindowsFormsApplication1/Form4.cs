@@ -16,5 +16,18 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+            localhost.Service1 s=new localhost.Service1();
+            BindingSource bs = new BindingSource();
+            bs.DataSource =s.search_servant("tutor") ;
+            dataGridView1.DataSource = bs;
+        }
     }
 }

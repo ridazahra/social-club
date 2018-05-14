@@ -16,5 +16,13 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void Form6_Load(object sender, EventArgs e)
+        {
+            localhost.Service1 s = new localhost.Service1();
+           BindingSource bs = new BindingSource();
+           bs.DataSource = s.search_servant("tutuor");
+            dataGridView1.DataSource = bs;
+        }
     }
 }

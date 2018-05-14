@@ -43,7 +43,7 @@ namespace WindowsFormsApplication1
             s.isadmin(txtname.Text, txtpassword.Text,out l,out k);
             if (l)
             {
-                Form3 f = new Form3();
+                Form7 f = new Form7();
                 f.Show();
                 this.Hide();
             }

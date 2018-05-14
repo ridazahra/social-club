@@ -3,3 +3,8 @@ c:\users\hp\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\Wc
 c:\users\hp\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
 c:\users\hp\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
 c:\users\hp\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\HP\Desktop\New folder\social-club\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\HP\Desktop\New folder\social-club\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\HP\Desktop\New folder\social-club\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\New folder\social-club\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\HP\Desktop\New folder\social-club\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
